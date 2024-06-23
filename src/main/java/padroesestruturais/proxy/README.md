@@ -12,7 +12,9 @@ O diagrama sugere que `VeiculoProxy` é uma classe que encapsula `Veiculo` e `Ch
 ![](./docs/diagram.jpg?raw=true "Diagrama")
 
 <h2 align="center">Evidências de Execução (Captura de tela de sucesso dos testes)</h2>
+
 ![VeiculoProxyTest](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/assets/67652151/c359e943-e5ce-49ad-a9ba-41789d7ba628)
+
 
 
 <h1 align="center">Autores</h1>
