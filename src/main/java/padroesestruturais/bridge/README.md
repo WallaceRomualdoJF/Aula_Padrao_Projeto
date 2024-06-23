@@ -1,3 +1,5 @@
+<h1 align="center">Diagrama e a Proposta</h1>
+
 O diagrama mostra um diagrama de classes UML, representando a relação entre veículos e combustíveis. A classe `Veículo`, uma classe abstrata, possui o método `calcularMediaCombustivel()`. Ela possui uma associação de 1 para 1 com a interface `Combustivel`, que possui o método `eficiencia()`. 
 
 As classes `CarroPasseio`, `Caminhao` e `CarroCorrida` são subclasses de `Veiculo`. As classes `Gasolina`, `Diesel` e `Etanol` implementam a interface `Combustivel`. 
