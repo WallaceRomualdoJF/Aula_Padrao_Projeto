@@ -1,3 +1,5 @@
+<h1 align="center">Diagrama e a Proposta</h1>
+
 A imagem representa um diagrama de classes UML que demonstra o padrão de projeto Builder.
 
 A classe `Empresa` possui os atributos `cnpj`, `razaoSocial`, `nomeFantasia` e `telefone`. 
