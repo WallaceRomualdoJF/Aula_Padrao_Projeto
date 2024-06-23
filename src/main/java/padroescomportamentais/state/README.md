@@ -1,3 +1,5 @@
+<h1 align="center">Diagrama e a Proposta</h1>
+
 A imagem mostra um diagrama de estados de um jogo de plataforma. O estado inicial é representado por um círculo preto. O jogador pode realizar as seguintes ações: Andar, Correr, Pular, Atacar, Agachar e Rastejar. As transições entre os estados são representadas por setas. A ação "Andar" pode ser iniciada a partir do estado inicial ou dos estados "Atacar", "Agachar", "Rastejar" e "Pular". A ação "Correr" pode ser iniciada a partir do estado "Andar" e a ação "Pular" pode ser iniciada a partir dos estados "Andar", "Correr", "Agachar", "Rastejar" e "Atacar". A ação "Atacar" pode ser iniciada a partir dos estados "Andar", "Correr", "Pular" e "Agachar". A ação "Agachar" pode ser iniciada a partir dos estados "Andar", "Correr", "Pular", "Atacar" e "Rastejar". Finalmente, a ação "Rastejar" pode ser iniciada a partir dos estados "Agachar", "Andar" e "Pular".
 
 ![](./docs/diagram.jpg?raw=true "Diagrama")
