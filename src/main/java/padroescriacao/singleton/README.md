@@ -1,5 +1,9 @@
-<h2 align="center">Singleton</h2>
-A classe Produto é implementada como um Singleton, garantindo que apenas uma instância dela exista em todo o programa. O construtor privado impede a criação de novas instâncias, enquanto uma instância estática é criada quando a classe é carregada. Um método público fornece acesso a essa instância única. Além disso, a classe possui atributos para armazenar informações sobre um produto, com métodos para obter e definir esses valores de maneira controlada.
+<h1 align="center">Diagrama e a Proposta</h1>
+
+O diagrama representa a classe `SharedObject` com os atributos `currentVersion` e `sharedObject`. 
+A classe possui um construtor `SharedObject()` e o método `getSharedObject()`. 
+O diagrama também indica que a classe `SharedObject` é um singleton, pois a seta recursiva representa a instância única da classe.
+![](./docs/diagram.jpg?raw=true "Diagrama")
 
 <h2 align="center">Evidências de Execução (Captura de tela de sucesso dos testes)</h2>
 
