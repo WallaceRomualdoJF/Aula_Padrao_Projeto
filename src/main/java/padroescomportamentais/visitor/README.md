@@ -1,7 +1,5 @@
 <h1 align="center">Diagrama e a Proposta</h1>
 
-Diagrama de Classe em Java
-
 O diagrama a seguir ilustra a estrutura de classes do projeto em Java. Ele foi criado utilizando a ferramenta Visual Paradigm e StarUML.
 
 ![](./docs/diagram.jpg?raw=true "Diagrama")
