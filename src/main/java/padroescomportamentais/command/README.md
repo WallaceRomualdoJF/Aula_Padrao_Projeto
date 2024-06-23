@@ -1,3 +1,5 @@
+<h1 align="center">Diagrama e a Proposta</h1>
+
 A imagem representa um diagrama de classes UML. 
 A classe `FolhaPonto` possui uma associação de 0..* para a interface `Tarefa`. 
 As classes `AberturaPontoTarefa` e `FechamentoPontoTarefa` herdam da interface `Tarefa`. 
