@@ -1,3 +1,5 @@
+<h1 align="center">Diagrama e a Proposta</h1>
+
 O diagrama representa um padrão de projeto Abstract Factory. 
 
 A interface `IServico` define os métodos `executar()` e `cancelar()`, que são implementados pelas classes concretas `ServicoVenda`, `ServicoEmissaoNotaFiscal` e `ServicoCadastro`.
