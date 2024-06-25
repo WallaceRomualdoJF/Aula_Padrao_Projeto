@@ -1,6 +1,6 @@
 # Padrões de Projeto em Java
 
-Este repositório contém exemplos de padrões de projeto implementados em Java, organizados em três categorias principais: Padrões Criacionais, Padrões Comportamentais e Padrões Estruturais.
+Este repositório contém exemplos de padrões de projeto implementados em Java, organizados em três categorias principais: Padrões Criação, Padrões Comportamentais e Padrões Estruturais.
 
 Conceituar e classificar padrões de projeto e padrões arquiteturais. Integrar esses conceitos a análise, projeto e implementação de aplicações dentro do paradigma orientado a objetos. Definir a técnicas de aplicação dos padrões de projeto durante o desenvolvimento de software. Apresentar os benefícios e dificuldades que podem surgir quando usamos padrões de projeto.
 
@@ -8,7 +8,9 @@ Conceituar e classificar padrões de projeto e padrões arquiteturais. Integrar 
 
 Os padrões criação focam em como objetos são criados. Eles buscam abstrair o processo de criação, tornando o sistema mais flexível e desacoplado.
 
-### Exemplos: Factory Method, Abstract Factory, Builder, Prototype e Singleton.
+### Exemplos:
+
+- Factory Method, Abstract Factory, Builder, Prototype e Singleton.
 
 Implementação
 
@@ -19,7 +21,9 @@ Implementação
 
 Os padrões comportamentais se concentram nos algoritmos e na atribuição de responsabilidades entre objetos. Eles ajudam a definir como objetos interagem e se comunicam entre si.
 
-### Exemplos: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method e Visitor.
+### Exemplos:
+
+- Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method e Visitor.
 
 Implementação
 
@@ -30,7 +34,9 @@ Implementação
 
 Os padrões estruturais se preocupam com a composição de classes e objetos para formar estruturas maiores.
 
-### Exemplos: Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
+### Exemplos:
+
+- Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
 
 Implementação
 
