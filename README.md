@@ -10,7 +10,11 @@ Os padrões criação focam em como objetos são criados. Eles buscam abstrair o
 
 ### Exemplos:
 
-- Factory Method, Abstract Factory, Builder, Prototype e Singleton.
+- Factory Method;
+- Abstract Factory;
+- Builder;
+- Prototype;
+- Singleton.
 
 Implementação: [Padrão Criação](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescriacao)
 
@@ -21,7 +25,16 @@ Os padrões comportamentais se concentram nos algoritmos e na atribuição de re
 
 ### Exemplos:
 
-- Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method e Visitor.
+- Chain of Responsibility;
+- Command;
+- Iterator;
+- Mediator;
+- Memento;
+- Observer;
+- State;
+- Strategy;
+- Template Method;
+- Visitor.
 
 Implementação: [Padrão Comportamentais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescomportamentais)
 
@@ -32,7 +45,13 @@ Os padrões estruturais se preocupam com a composição de classes e objetos par
 
 ### Exemplos:
 
-- Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
+- Adapter;
+- Bridge;
+- Composite;
+- Decorator;
+- Facade;
+- Flyweight;
+- Proxy.
 
 Implementação: [Padrão Estruturais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroesestruturais)
 
