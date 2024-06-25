@@ -12,9 +12,7 @@ Os padrões criação focam em como objetos são criados. Eles buscam abstrair o
 
 - Factory Method, Abstract Factory, Builder, Prototype e Singleton.
 
-Implementação
-
-[Padrão Criação](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescriacao)
+Implementação: [Padrão Criação](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescriacao)
 
 
 ## Padrões Comportamentais
@@ -25,9 +23,7 @@ Os padrões comportamentais se concentram nos algoritmos e na atribuição de re
 
 - Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method e Visitor.
 
-Implementação
-
-[Padrão Comportamentais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescomportamentais)
+Implementação: [Padrão Comportamentais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescomportamentais)
 
 
 ## Padrões Estruturais
@@ -38,9 +34,7 @@ Os padrões estruturais se preocupam com a composição de classes e objetos par
 
 - Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
 
-Implementação
-
-[Padrão Estruturais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroesestruturais)
+Implementação: [Padrão Estruturais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroesestruturais)
 
 
 Este README fornece uma visão geral dos padrões de projeto implementados neste repositório, organizados por categorias principais. Cada padrão está acompanhado de um exemplo de implementação em Java.
