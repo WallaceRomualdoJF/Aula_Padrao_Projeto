@@ -1,6 +1,6 @@
 # Padrões de Projeto em Java
 
-Este repositório contém exemplos de padrões de projeto implementados em Java, organizados em três categorias principais: Padrões Criação, Padrões Comportamentais e Padrões Estruturais.
+Este repositório contém exemplos de padrões de projeto implementados em Java com o docente Prof. Marco Miguel na disciplina de Arquitetura e Projeto de Software localizada na Universidade - Uniacademia, organizados em três categorias principais: Padrões Criação, Padrões Comportamentais e Padrões Estruturais.
 
 Conceituar e classificar padrões de projeto e padrões arquiteturais. Integrar esses conceitos a análise, projeto e implementação de aplicações dentro do paradigma orientado a objetos. Definir a técnicas de aplicação dos padrões de projeto durante o desenvolvimento de software. Apresentar os benefícios e dificuldades que podem surgir quando usamos padrões de projeto.
 
@@ -15,8 +15,6 @@ Os padrões criação focam em como objetos são criados. Eles buscam abstrair o
 Implementação: [Padrão Criação](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescriacao)
 
 
-
-
 ## Padrões Comportamentais
 
 Os padrões comportamentais se concentram nos algoritmos e na atribuição de responsabilidades entre objetos. Eles ajudam a definir como objetos interagem e se comunicam entre si.
@@ -28,8 +26,6 @@ Os padrões comportamentais se concentram nos algoritmos e na atribuição de re
 Implementação: [Padrão Comportamentais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroescomportamentais)
 
 
-
-
 ## Padrões Estruturais
 
 Os padrões estruturais se preocupam com a composição de classes e objetos para formar estruturas maiores.
@@ -39,8 +35,6 @@ Os padrões estruturais se preocupam com a composição de classes e objetos par
 - Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
 
 Implementação: [Padrão Estruturais](https://github.com/WallaceRomualdoJF/Aula_Padrao_Projeto/tree/main/src/main/java/padroesestruturais)
-
-
 
 
 Este README fornece uma visão geral dos padrões de projeto implementados neste repositório, organizados por categorias principais. Cada padrão está acompanhado de um exemplo de implementação em Java.
